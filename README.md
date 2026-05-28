@@ -23,6 +23,7 @@
 ```bash
 git clone https://github.com/YT-wang051/EnviroBot.git
 cd EnviroBot
+./build.sh
 
 ## 📂 项目结构
 EnviroBot/
